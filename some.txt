@@ -1,4 +1,8 @@
 echo 'ab'
 c
 bb 
+<<<<<<< HEAD
 adadfas
+=======
+branch
+>>>>>>> dev
